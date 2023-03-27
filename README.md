@@ -1,4 +1,4 @@
-# Linear-Regression-Tensorflow
+# Neural Network Regression-Tensorflow
 This Jupyter Notebook demonstrates building a neural network for regression using Tensor Flow on the Kaggle Medical Cost Personal Dataset. The dataset contains information about the medical cost personal information for individuals who have bought insurance.
 
 In this notebook, the dataset is preprocessed, scaled using feature scaling, and split into training and testing sets. Then, three different models are built, and each model is trained for 35 epochs using Tensor Flow.
